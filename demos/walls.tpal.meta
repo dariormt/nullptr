@@ -2,7 +2,7 @@ uid = "UInyB8Vhn1w"
 type = "voxel_palette"
 source = "artwork://walls.vox"
 created_at = "2026-09-22T22:27:44.0590996Z"
-modified_at = "2026-09-22T22:36:40.9283098Z"
+modified_at = "2026-09-25T17:50:14.6024493Z"
 [vox]
 create_folder = false
 import_palette = true

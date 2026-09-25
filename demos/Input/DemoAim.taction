@@ -1,5 +1,5 @@
 name = "DemoAim"
-function_name = "onAim"
+function_name = "look"
 description = ""
 type = "Action2D"
 accumulation = false

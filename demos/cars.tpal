@@ -1,2838 +1,2836 @@
-max_emissive = 1.0
+max_emissive = 10000.0
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
 
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
 [[entries]]
-albedo = [ 255, 255, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 1
+albedo = [255, 255, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 255, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 2
+albedo = [255, 255, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 255, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 3
+albedo = [255, 255, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 255, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 4
+albedo = [255, 255, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 255, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 5
+albedo = [255, 255, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 255, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 6
+albedo = [255, 255, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 204, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 7
+albedo = [255, 204, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 204, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 8
+albedo = [255, 204, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 204, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 9
+albedo = [255, 204, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 204, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 10
+albedo = [255, 204, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 204, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 11
+albedo = [255, 204, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 204, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 12
+albedo = [255, 204, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 153, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 13
+albedo = [255, 153, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 153, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 14
+albedo = [255, 153, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 153, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 15
+albedo = [255, 153, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 153, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 16
+albedo = [255, 153, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 153, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 17
+albedo = [255, 153, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 153, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 18
+albedo = [255, 153, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 102, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 19
+albedo = [255, 102, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 102, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 20
+albedo = [255, 102, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 102, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 21
+albedo = [255, 102, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 102, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 22
+albedo = [255, 102, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 102, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 23
+albedo = [255, 102, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 102, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 24
+albedo = [255, 102, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 51, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 25
+albedo = [255, 51, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 51, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 26
+albedo = [255, 51, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 51, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 27
+albedo = [255, 51, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 51, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 28
+albedo = [255, 51, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 51, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 29
+albedo = [255, 51, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 51, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 30
+albedo = [255, 51, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 0, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 31
+albedo = [255, 0, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 0, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 32
+albedo = [255, 0, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 0, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 33
+albedo = [255, 0, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 0, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 34
+albedo = [255, 0, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 0, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 35
+albedo = [255, 0, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 255, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 36
+albedo = [255, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 255, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 37
+albedo = [204, 255, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 255, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 38
+albedo = [204, 255, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 255, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 39
+albedo = [204, 255, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 255, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 40
+albedo = [204, 255, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 255, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 41
+albedo = [204, 255, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 255, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 42
+albedo = [204, 255, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 204, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 43
+albedo = [204, 204, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 204, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 44
+albedo = [204, 204, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 204, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 45
+albedo = [204, 204, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 204, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 46
+albedo = [204, 204, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 204, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 47
+albedo = [204, 204, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 204, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 48
+albedo = [204, 204, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 153, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 49
+albedo = [204, 153, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 153, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 50
+albedo = [204, 153, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 153, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 51
+albedo = [204, 153, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 153, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 52
+albedo = [204, 153, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 153, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 53
+albedo = [204, 153, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 153, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 54
+albedo = [204, 153, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 102, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 55
+albedo = [204, 102, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 102, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 56
+albedo = [204, 102, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 102, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 57
+albedo = [204, 102, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 102, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 58
+albedo = [204, 102, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 102, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 59
+albedo = [204, 102, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 102, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 60
+albedo = [204, 102, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 51, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 61
+albedo = [204, 51, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 51, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 62
+albedo = [204, 51, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 51, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 63
+albedo = [204, 51, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 51, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 64
+albedo = [204, 51, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 51, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 65
+albedo = [204, 51, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 51, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 66
+albedo = [204, 51, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 0, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 67
+albedo = [204, 0, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 0, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 68
+albedo = [204, 0, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 0, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 69
+albedo = [204, 0, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 0, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 70
+albedo = [204, 0, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 0, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 71
+albedo = [204, 0, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 204, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 72
+albedo = [204, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 255, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 73
+albedo = [153, 255, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 255, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 74
+albedo = [153, 255, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 255, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 75
+albedo = [153, 255, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 255, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 76
+albedo = [153, 255, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 255, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 77
+albedo = [153, 255, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 255, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 78
+albedo = [153, 255, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 204, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 79
+albedo = [153, 204, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 204, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 80
+albedo = [153, 204, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 204, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 81
+albedo = [153, 204, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 204, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 82
+albedo = [153, 204, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 204, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 83
+albedo = [153, 204, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 204, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 84
+albedo = [153, 204, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 153, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 85
+albedo = [153, 153, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 153, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 86
+albedo = [153, 153, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 153, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 87
+albedo = [153, 153, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 153, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 88
+albedo = [153, 153, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 153, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 89
+albedo = [153, 153, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 153, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 90
+albedo = [153, 153, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 102, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 91
+albedo = [153, 102, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 102, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 92
+albedo = [153, 102, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 102, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 93
+albedo = [153, 102, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 102, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 94
+albedo = [153, 102, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 102, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 95
+albedo = [153, 102, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 102, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 96
+albedo = [153, 102, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 51, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 97
+albedo = [153, 51, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 51, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 98
+albedo = [153, 51, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 51, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 99
+albedo = [153, 51, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 51, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 100
+albedo = [153, 51, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 51, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 101
+albedo = [153, 51, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 51, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 102
+albedo = [153, 51, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 0, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 103
+albedo = [153, 0, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 0, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 104
+albedo = [153, 0, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 0, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 105
+albedo = [153, 0, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 0, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 106
+albedo = [153, 0, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 0, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 107
+albedo = [153, 0, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 153, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 108
+albedo = [153, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 1.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 255, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 109
+albedo = [102, 255, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 255, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 110
+albedo = [102, 255, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 255, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 111
+albedo = [102, 255, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 255, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 112
+albedo = [102, 255, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 255, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 113
+albedo = [102, 255, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 255, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 114
+albedo = [102, 255, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 204, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 115
+albedo = [102, 204, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 204, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 116
+albedo = [102, 204, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 204, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 117
+albedo = [102, 204, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 204, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 118
+albedo = [102, 204, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 204, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 119
+albedo = [102, 204, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 204, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 120
+albedo = [102, 204, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 153, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 121
+albedo = [102, 153, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 153, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 122
+albedo = [102, 153, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 153, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 123
+albedo = [102, 153, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 153, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 124
+albedo = [102, 153, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 153, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 125
+albedo = [102, 153, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 153, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 126
+albedo = [102, 153, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 102, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 127
+albedo = [102, 102, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 102, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 128
+albedo = [102, 102, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 102, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 129
+albedo = [102, 102, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 102, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 130
+albedo = [102, 102, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 102, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 131
+albedo = [102, 102, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 102, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 132
+albedo = [102, 102, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 51, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 133
+albedo = [102, 51, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 51, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 134
+albedo = [102, 51, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 51, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 135
+albedo = [102, 51, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 51, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 136
+albedo = [102, 51, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 51, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 137
+albedo = [102, 51, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 51, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 138
+albedo = [102, 51, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 0, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 139
+albedo = [102, 0, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 0, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 140
+albedo = [102, 0, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 0, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 141
+albedo = [102, 0, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 0, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 142
+albedo = [102, 0, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 0, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 143
+albedo = [102, 0, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 102, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 144
+albedo = [102, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 255, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 145
+albedo = [51, 255, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 255, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 146
+albedo = [51, 255, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 255, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 147
+albedo = [51, 255, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 255, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 148
+albedo = [51, 255, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 255, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 149
+albedo = [51, 255, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 255, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 150
+albedo = [51, 255, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 204, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 151
+albedo = [51, 204, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 204, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 152
+albedo = [51, 204, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 204, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 153
+albedo = [51, 204, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 204, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 154
+albedo = [51, 204, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 204, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 155
+albedo = [51, 204, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 204, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 156
+albedo = [51, 204, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 153, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 157
+albedo = [51, 153, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 153, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 158
+albedo = [51, 153, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 153, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 159
+albedo = [51, 153, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 153, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 160
+albedo = [51, 153, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 153, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 161
+albedo = [51, 153, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 153, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 162
+albedo = [51, 153, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 102, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 163
+albedo = [51, 102, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 102, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 164
+albedo = [51, 102, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 102, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 165
+albedo = [51, 102, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 102, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 166
+albedo = [51, 102, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 102, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 167
+albedo = [51, 102, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 102, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 168
+albedo = [51, 102, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 51, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 169
+albedo = [51, 51, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 51, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 170
+albedo = [51, 51, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 51, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 171
+albedo = [51, 51, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 51, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 172
+albedo = [51, 51, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 51, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 173
+albedo = [51, 51, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 51, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 174
+albedo = [51, 51, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 0, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 175
+albedo = [51, 0, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 0, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 176
+albedo = [51, 0, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 0, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 177
+albedo = [51, 0, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 0, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 178
+albedo = [51, 0, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 0, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 179
+albedo = [51, 0, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 51, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 180
+albedo = [51, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 255, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 181
+albedo = [0, 255, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 255, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 182
+albedo = [0, 255, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 255, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 183
+albedo = [0, 255, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 255, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 184
+albedo = [0, 255, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 255, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 185
+albedo = [0, 255, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 255, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 186
+albedo = [0, 255, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 204, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 187
+albedo = [0, 204, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 204, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 188
+albedo = [0, 204, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 204, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 189
+albedo = [0, 204, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 204, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 190
+albedo = [0, 204, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 204, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 191
+albedo = [0, 204, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 204, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 192
+albedo = [0, 204, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 153, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 193
+albedo = [0, 153, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 153, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 194
+albedo = [0, 153, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 153, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 195
+albedo = [0, 153, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 153, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 196
+albedo = [0, 153, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 153, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 197
+albedo = [0, 153, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 153, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 198
+albedo = [0, 153, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 102, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 199
+albedo = [0, 102, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 102, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 200
+albedo = [0, 102, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 102, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 201
+albedo = [0, 102, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 102, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 202
+albedo = [0, 102, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 102, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 203
+albedo = [0, 102, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 102, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 204
+albedo = [0, 102, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 51, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 205
+albedo = [0, 51, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 51, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 206
+albedo = [0, 51, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 51, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 207
+albedo = [0, 51, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 51, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 208
+albedo = [0, 51, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 51, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 209
+albedo = [0, 51, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 51, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 210
+albedo = [0, 51, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 255 ]
-alpha = 1.0
-emissive = 0.0
 index = 211
+albedo = [0, 0, 255]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 204 ]
-alpha = 1.0
-emissive = 0.0
 index = 212
+albedo = [0, 0, 204]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 153 ]
-alpha = 1.0
-emissive = 0.0
 index = 213
+albedo = [0, 0, 153]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 102 ]
-alpha = 1.0
-emissive = 0.0
 index = 214
+albedo = [0, 0, 102]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 51 ]
-alpha = 1.0
-emissive = 0.0
 index = 215
+albedo = [0, 0, 51]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 238, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 216
+albedo = [238, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 221, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 217
+albedo = [221, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 187, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 218
+albedo = [187, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 170, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 219
+albedo = [170, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 136, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 220
+albedo = [136, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 119, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 221
+albedo = [119, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 85, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 222
+albedo = [85, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 68, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 223
+albedo = [68, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 34, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 224
+albedo = [34, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 17, 0, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 225
+albedo = [17, 0, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 238, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 226
+albedo = [0, 238, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 221, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 227
+albedo = [0, 221, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 187, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 228
+albedo = [0, 187, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 170, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 229
+albedo = [0, 170, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 136, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 230
+albedo = [0, 136, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 119, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 231
+albedo = [0, 119, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 85, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 232
+albedo = [0, 85, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 68, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 233
+albedo = [0, 68, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 34, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 234
+albedo = [0, 34, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 17, 0 ]
-alpha = 1.0
-emissive = 0.0
 index = 235
+albedo = [0, 17, 0]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 238 ]
-alpha = 1.0
-emissive = 0.0
 index = 236
+albedo = [0, 0, 238]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 221 ]
-alpha = 1.0
-emissive = 0.0
 index = 237
+albedo = [0, 0, 221]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 187 ]
-alpha = 1.0
-emissive = 0.0
 index = 238
+albedo = [0, 0, 187]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 170 ]
-alpha = 1.0
-emissive = 0.0
 index = 239
+albedo = [0, 0, 170]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 136 ]
-alpha = 1.0
-emissive = 0.0
 index = 240
+albedo = [0, 0, 136]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 119 ]
-alpha = 1.0
-emissive = 0.0
 index = 241
+albedo = [0, 0, 119]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 85 ]
-alpha = 1.0
-emissive = 0.0
 index = 242
+albedo = [0, 0, 85]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 68 ]
-alpha = 1.0
-emissive = 0.0
 index = 243
+albedo = [0, 0, 68]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 34 ]
-alpha = 1.0
-emissive = 0.0
 index = 244
+albedo = [0, 0, 34]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 0, 0, 17 ]
-alpha = 1.0
-emissive = 0.0
 index = 245
+albedo = [0, 0, 17]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 238, 238, 238 ]
-alpha = 1.0
-emissive = 0.0
 index = 246
+albedo = [238, 238, 238]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 221, 221, 221 ]
-alpha = 1.0
-emissive = 0.0
 index = 247
+albedo = [221, 221, 221]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 187, 187, 187 ]
-alpha = 1.0
-emissive = 0.0
 index = 248
+albedo = [187, 187, 187]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 170, 170, 170 ]
-alpha = 1.0
-emissive = 0.0
 index = 249
+albedo = [170, 170, 170]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 136, 136, 136 ]
-alpha = 1.0
-emissive = 0.0
 index = 250
+albedo = [136, 136, 136]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 119, 119, 119 ]
-alpha = 1.0
-emissive = 0.0
 index = 251
+albedo = [119, 119, 119]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 85, 85, 85 ]
-alpha = 1.0
-emissive = 0.0
 index = 252
-metallic = 0.0
+albedo = [85, 85, 85]
+roughness = 0.10196078568696976
+metallic = 1.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 68, 68, 68 ]
-alpha = 1.0
-emissive = 0.0
 index = 253
-metallic = 0.0
+albedo = [68, 68, 68]
+roughness = 0.10196078568696976
+metallic = 0.699999988079071
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 34, 34, 34 ]
-alpha = 1.0
-emissive = 0.0
 index = 254
+albedo = [34, 34, 34]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
 
 [[entries]]
-albedo = [ 17, 17, 17 ]
-alpha = 1.0
-emissive = 0.0
 index = 255
+albedo = [17, 17, 17]
+roughness = 0.10196078568696976
 metallic = 0.0
 reflectivity = 0.0
-roughness = 0.10196078431372549
+emissive = 0.0
+alpha = 1.0
 transforms_to = 0
 transparent = false
-
-[[materials]]
-dust_colour = [ 128, 128, 128 ]
-name = ''
-
-[[materials]]
-dust_colour = [ 128, 128, 128 ]
-name = ''
-
-[[materials]]
-dust_colour = [ 128, 128, 128 ]
-name = ''
-
-[[materials]]
-dust_colour = [ 128, 128, 128 ]
-name = ''
-
-[[materials]]
-dust_colour = [ 128, 128, 128 ]
-name = ''
-
-[[materials]]
-dust_colour = [ 128, 128, 128 ]
-name = ''
-
-[[materials]]
-dust_colour = [ 128, 128, 128 ]
-name = ''
-
-[[materials]]
-dust_colour = [ 128, 128, 128 ]
-name = ''

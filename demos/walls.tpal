@@ -1,4 +1,4 @@
-max_emissive = 1.0
+max_emissive = 100.0
 [[materials]]
 name = "Glass"
 physics = "92Ayy2T4yrg"
@@ -2770,7 +2770,7 @@ albedo = [0, 151, 255]
 roughness = 0.10000000149011612
 metallic = 0.0
 reflectivity = 0.0
-emissive = 0.0
+emissive = 1.0
 alpha = 0.20000000298023224
 transforms_to = 0
 transparent = true
@@ -2778,9 +2778,9 @@ transparent = true
 [[entries]]
 index = 250
 albedo = [139, 63, 31]
-roughness = 0.699999988079071
-metallic = 0.0
-reflectivity = 0.0
+roughness = 0.0
+metallic = 1.0
+reflectivity = 1.0
 emissive = 0.0
 alpha = 1.0
 material = 2

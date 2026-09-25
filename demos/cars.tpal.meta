@@ -2,7 +2,7 @@ uid = "P6trD2NKdOI"
 type = "voxel_palette"
 source = "artwork://cars.vox"
 created_at = "2026-09-22T23:02:51.0977909Z"
-modified_at = "2026-09-22T23:02:51.0977931Z"
+modified_at = "2026-09-25T16:34:34.7185313Z"
 [vox]
 create_folder = false
 import_palette = true

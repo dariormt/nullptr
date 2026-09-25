@@ -1,6 +1,6 @@
 ~format @int = 4
 
-[Player type=physics::DynamicRigidbody]
+[Player type=physics::Character]
 m_uid @uid = JWuvtTbmlUU
 m_local_enabled @bool = true
 m_scripts @array_uid = xd_-Q-F0Ku4
@@ -8,35 +8,60 @@ position @vec3 = 0 0 0
 rotation @quat = 0 0 0 1
 scale @vec3 = 1 1 1
 material @uid = AAAAAAAAAAA
-mass @float = 70
-gravity_scale @float = 1
-allow_sleep @bool = true
 .World Transform
 .Position Locks
     lock_pos_x @bool = false
     lock_pos_y @bool = false
     lock_pos_z @bool = false
 .Rotation Locks
-    lock_rot_x @bool = true
-    lock_rot_y @bool = true
-    lock_rot_z @bool = true
-.Constant Forces
-.Mass Distribution
-.Velocities
+    lock_rot_x @bool = false
+    lock_rot_y @bool = false
+    lock_rot_z @bool = false
+.Ground
+    max_speed @float = 6.35
+    sprint_speed @float = 8.13
+    acceleration @float = 10
+    friction @float = 4
+    stop_speed @float = 2.54
+    max_slope @float = 45.57
+    step_height @float = 0.457
+.Air
+    air_acceleration @float = 10
+    air_speed_cap @float = 0.762
+    gravity_scale @float = 2.07
+    max_velocity @float = 88.9
+.Jump
+    jump_height @float = 1.14
+    auto_bunny_hop @bool = false
+    jump_boost @float = 0.5
+    jump_boost_slow @float = 0.1
+    accelerated_back_hop @bool = true
+.Crouch
+    crouch_height @float = 0.914
+    crouch_speed_scale @float = 0.34
+.View
+    eye_height @float = 1.63
+    crouch_eye_height @float = 0.71
+    crouch_view_time @float = 0.2
+    mouse_sensitivity @float = 0.12
+    stick_look_speed @float = 180
+.Pushing
+    push_force @float = 400
+.State
 
 [CapsuleCollider type=physics::CapsuleCollider]
 m_uid @uid = xNa-YuSYSr0
 m_local_enabled @bool = true
 m_parent @uid = JWuvtTbmlUU
-m_scripts @array_uid = 
-position @vec3 = 0 0 0
+m_scripts @array_uid =
+position @vec3 = 0 0 0.915
 rotation @quat = 0 0 0 1
 scale @vec3 = 1 1 1
 disabled @bool = false
 debug_color @vec4 = 0 1 0.251 0.5
 debug_fill @bool = false
-radius @float = 0.5
-height @float = 2
+radius @float = 0.4
+height @float = 1.83
 .World Transform
 .AABB
     show_aabb @bool = false
@@ -47,8 +72,8 @@ height @float = 2
 m_uid @uid = 72tAZF5YWpk
 m_local_enabled @bool = true
 m_parent @uid = JWuvtTbmlUU
-m_scripts @array_uid = 
-position @vec3 = 0 0.2 0.6
+m_scripts @array_uid =
+position @vec3 = 0 0.2 1.63
 rotation @quat = 0 0 0 1
 scale @vec3 = 1 1 1
 fov @float = 75
@@ -61,7 +86,7 @@ m_is_main_camera @bool = false
 m_uid @uid = NQX6mJyg2j8
 m_local_enabled @bool = true
 m_parent @uid = JWuvtTbmlUU
-m_scripts @array_uid = 
+m_scripts @array_uid =
 default_layout @string = "Demo Layout"
 default_layer @string = ""
 layouts @array_uid = zL9Xee6ewLE

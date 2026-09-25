@@ -1,5 +1,5 @@
 name = "DemoMove"
-function_name = "onMove"
+function_name = "move"
 description = ""
 type = "Action2D"
 accumulation = false

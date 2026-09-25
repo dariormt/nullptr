@@ -1,15 +1,17 @@
-databases = ["assets", "demos"]
-name = "John Mafia"
-version = [0, 1, 1]
+databases = [ 'assets', 'demos' ]
+name = 'John Mafia'
+version = [ 0, 1, 1 ]
+
 [gameplay]
-init_scene = "RXlkp1zJNB0"
-player = ""
-[physics]
+init_scene = 'RXlkp1zJNB0'
+player = ''
+
 [physics.broadphase]
 fat_margin = 0.1
+
 [physics.fracture]
 despawn_max_voxels = 16
-despawn_settle_seconds = 3.0
+despawn_settle_seconds = 60.0
 force_sleep_slack = 4.0
 max_active_fragments = 96
 max_connectivity_jobs_per_tick = 24
@@ -18,46 +20,60 @@ max_spawns_per_step = 8
 min_fragment_voxels = 4
 pool_headroom = 4096
 shell_voxels = 2.0
+
 [physics.jobs]
 min_bounds_per_job = 32
 min_candidates_per_job = 2
 min_wave_constraints_for_dispatch = 512
+
 [physics.sleep]
 angular_threshold = 0.05
 delay = 0.5
 linear_threshold = 0.05
+
 [physics.solver]
 bounce_threshold = 1.0
 correction_beta = 0.2
 iterations = 8
 max_correction = 0.05
 penetration_slop = 0.005
+
 [physics.step]
 frequency = 60.0
 max_burst_seconds = 0.1
 max_substeps = 8
+
 [physics.world]
 gravity_x = 0.0
 gravity_y = 0.0
 gravity_z = -9.8
-[renderer]
+
 [renderer.display]
 clamp_to_simulation = true
 frame_rate_limit = 0.0
+
 [renderer.environment]
 sky_intensity = 1.0
+
 [renderer.quality]
 bloom = true
-fxaa = true
+fxaa = false
 ssao = true
 ssr = true
+taa = true
+taa_history = 0.5
 traced_shadows = false
+
 [renderer.shadows]
 cascade_resolution = 1
 distance = 150.0
 punctual_resolution = 1
 slot_grace = 30
 slot_retention = 1.5
+
+[renderer.voxels]
+edge_rounding = 0.3
+
 [ui]
-color_scheme = ""
-languages = ["en"]
+color_scheme = ''
+languages = [ 'en' ]

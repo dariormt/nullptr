@@ -214,17 +214,21 @@ indestructible @bool = false
     ..Rotation Locks
     ..Velocities
 
-[Player type=physics::DynamicRigidbody]
+[Player type=physics::Character]
 m_uid @uid = Vxqj7VTuTLc
 m_parent @uid = lMsIxaib7MI
 m_source_prefab @uid = -IiXXhTuZic
-position @vec3 = -7.5 0 1
+position @vec3 = -7.5 0 0
 .World Transform
 .Position Locks
 .Rotation Locks
-.Constant Forces
-.Mass Distribution
-.Velocities
+.Ground
+.Air
+.Jump
+.Crouch
+.View
+.Pushing
+.State
 
 [Side_Demo type=toast::Node]
 m_uid @uid = qexp_qZpnDc

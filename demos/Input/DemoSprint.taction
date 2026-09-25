@@ -1,0 +1,7 @@
+name = "DemoSprint"
+function_name = "sprint"
+description = ""
+type = "Action0D"
+accumulation = false
+bind = [{keycode = "keyboard/left_shift", trigger = [{name = "hold", value = true, threshold_start = 0.5, threshold_release = 0.5, countdown = 0.0, send_start = true, send_release = true}], modifier = []}]
+modifier = []
