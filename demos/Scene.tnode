@@ -1,14 +1,14 @@
 ~format @int = 4
 
 [Scene type=toast::Node]
-m_uid @uid = lMsIxaib7MI
+m_uid @uid = u_JjAao52eE
 m_local_enabled @bool = true
 m_scripts @array_uid = 
 
 [StaticRigidbody type=physics::StaticRigidbody]
 m_uid @uid = 38dMRoqDm7A
 m_local_enabled @bool = true
-m_parent @uid = lMsIxaib7MI
+m_parent @uid = u_JjAao52eE
 m_scripts @array_uid = 
 position @vec3 = 0 0 -0.5
 rotation @quat = 0 0 0 1
@@ -61,7 +61,7 @@ m_skin_name @string = ""
 [DemoWalls type=toast::Node]
 m_uid @uid = CkZX6x4--7Y
 m_local_enabled @bool = true
-m_parent @uid = lMsIxaib7MI
+m_parent @uid = u_JjAao52eE
 m_scripts @array_uid = 
 
 [Glass type=toast::VoxelNode]
@@ -216,7 +216,7 @@ indestructible @bool = false
 
 [Player type=physics::Character]
 m_uid @uid = Vxqj7VTuTLc
-m_parent @uid = lMsIxaib7MI
+m_parent @uid = u_JjAao52eE
 m_source_prefab @uid = -IiXXhTuZic
 position @vec3 = -7.5 0 0
 .World Transform
@@ -233,7 +233,7 @@ position @vec3 = -7.5 0 0
 [Side_Demo type=toast::Node]
 m_uid @uid = qexp_qZpnDc
 m_local_enabled @bool = true
-m_parent @uid = lMsIxaib7MI
+m_parent @uid = u_JjAao52eE
 m_scripts @array_uid = 
 
 [Brick type=toast::VoxelNode]
