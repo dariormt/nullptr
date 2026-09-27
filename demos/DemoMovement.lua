@@ -10,7 +10,25 @@ player.shoot_energy = 5000.0
 player.fire_rate = 8.0
 
 function player:begin()
-    Window.setCursorLocked(true)
+    --- @type PlayerController
+    local controller = self:find("PlayerController")
+
+    if controller ~= nil then
+        controller:setMouseLocked(true)
+        print("Controller setMouseLocked set to " .. tostring(controller:isMouseLocked()))
+    else
+        error("Controller was nil")
+    end
+end
+
+function player:destroy()
+    --- @type PlayerController
+    local controller = self:find("PlayerController")
+
+    if controller ~= nil then
+        controller:setMouseLocked(false)
+        print("Controller setMouseLocked set to " .. tostring(controller:isMouseLocked()))
+    end
 end
 
 --- @param action InputAction

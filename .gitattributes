@@ -1,1 +1,47 @@
+## LFS
+# 3D models
 *.vox filter=lfs diff=lfs merge=lfs -text
+*.glb filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+
+# Toast Engine stuff
+*.tvox filter=lfs diff=lfs merge=lfs -text
+*.tmesh filter=lfs diff=lfs merge=lfs -text
+*.tbnode filter=lfs diff=lfs merge=lfs -text
+
+# Textures
+*.png filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.hdr filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.ktx filter=lfs diff=lfs merge=lfs -text
+*.ktx2 filter=lfs diff=lfs merge=lfs -text
+
+# Audio
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.flac filter=lfs diff=lfs merge=lfs -text
+*.bank filter=lfs diff=lfs merge=lfs -text
+
+# Misc
+*.ttf filter=lfs diff=lfs merge=lfs -text
+*.otf filter=lfs diff=lfs merge=lfs -text
+
+## Linguistic data
+*.cpp linguist-detectable=true
+*.hpp linguist-detectable=true
+*.c linguist-detectable=true
+*.h linguist-detectable=true
+*.lua linguist-detectable=true
+*.slang linguist-language=Slang linguist-detectable=true
+
+# Ignore some languages we don't care about
+*.cmake linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
+*.sh linguist-detectable=false
+*.bat linguist-detectable=false
+*.ps1 linguist-detectable=false
+*.json linguist-detectable=false
+*.yaml linguist-detectable=false
+*.yml linguist-detectable=false
+*.toml linguist-detectable=false
